@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @iamvikramjeet1910
-- 👀 I’m interested in Web Development & iOS app development
-- 🌱 I’m currently learning the Backend part of Web development
-- 💞️ I’m looking to collaborate on any project that requires HTML, CSS, Javascript, ReactJS, NodeJS, ExpressJS, NextJS, MongoDB, Mongoose, and SwiftUI.
+- 👀 I’m interested in full-stack iOS app development
+- 💞️ I’m looking to collaborate on any project that requires Swift, Swiftui,iOS Architecture, Cocoa , iOS Networking, 
 - 📫 How to reach me:--myinstagram(iamvikramjeet_) , myLinkedin(https://www.linkedin.com/in/vikram-kumar-7bba33239/).
 
 <!---
